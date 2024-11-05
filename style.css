@@ -30,7 +30,7 @@ html {
 }
 
 .li-navbar:hover {
-    background-color: whitesmoke;
+    background-color: crimson;
     transition: .3s ease-in-out;
     transition-delay: .1s;
     border-radius: 8px;
