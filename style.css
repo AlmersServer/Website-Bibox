@@ -50,6 +50,11 @@ html {
     height: 80vh;
 }
 
+.container-about {
+    height: 80vh;
+    font-size: 10px
+}
+
 .a-content {
     background-color: white;
     color: black;
